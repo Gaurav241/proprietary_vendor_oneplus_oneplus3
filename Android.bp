@@ -1,6 +1,5 @@
 /**
- * Copyright (C) 2019-2020 The LineageOS Project
- * Copyright (C) 2019-2020 The PixelExperience Project
+ * Copyright (C) 2019-2020 AOSiP
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -238,3 +237,4 @@ dex_import {
 	owner: "oneplus",
 	jars: ["proprietary/framework/WfdCommon.jar"],
 }
+
